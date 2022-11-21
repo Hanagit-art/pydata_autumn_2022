@@ -3,6 +3,4 @@ Data Science course with Pyladies
 
 Link to the course: https://naucse.python.cz/2022/pydata-praha-podzim/
 
-Data Science
-Jupyter notebook
-Deepnote
+Data Science | Jupyter notebook | Deepnote
