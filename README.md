@@ -36,7 +36,12 @@ no task
 no task
 
 ## Strojové učení, klasifikace
-not finished yet
+
+https://deepnote.com/workspace/hana-svachova-e5fcfdb8-3686-46a9-a57a-2ff47776e57f/project/Uloha-ML-1-Podzim-2022-vino-HanaSvachova-9a9f7ebb-54e4-486c-b82b-0238093be3bf/%2F%C3%9Akol_1_klasifikace_vina.ipynb
+
+https://deepnote.com/workspace/hana-svachova-e5fcfdb8-3686-46a9-a57a-2ff47776e57f/project/Uloha-ML-2-Podzim-2022-prisery-HanaSvachova-960d8105-afef-43e0-9887-2c53b42fafa6/%2Fukol_2_magicke_prisery.ipynb
+
+https://deepnote.com/workspace/hana-svachova-e5fcfdb8-3686-46a9-a57a-2ff47776e57f/project/Uloha-ML-3-Podzim-2022-bankovky-HanaSvachova-ae9b6e68-42bf-454c-bb05-96e13dfe3085/%2Fukol_3_padelane_bankovky.ipynb
 
 ## Interaktivní vizualizace a aplikace
 not finished yet
